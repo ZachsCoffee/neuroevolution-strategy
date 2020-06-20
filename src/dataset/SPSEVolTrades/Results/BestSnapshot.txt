@@ -1,0 +1,1 @@
+Quit Run - Local Minimum = 0.00039015 Global Minimum = 0.00039015

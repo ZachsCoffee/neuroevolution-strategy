@@ -1,0 +1,11 @@
+Dataset:			SPSEVolTrades
+TrainSize: 			199
+TestSize: 			66
+ValidationSize: 		66
+Input: 				3
+Output:				1
+MinimumError: 		0.0000001
+Activation: 		Sigmoid
+HiddenNeuronsMax: 	3
+HiddenIncrementBy: 	2
+HiddenNeuronsStart: 3

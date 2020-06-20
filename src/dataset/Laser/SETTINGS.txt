@@ -1,0 +1,11 @@
+Dataset:			Laser
+TrainSize: 			194 
+TestSize: 			166 
+ValidationSize: 	166
+Input: 				5
+Output:				1
+MinimumError: 		0.0478
+Activation: 		Sigmoid
+HiddenNeuronsMax: 	3
+HiddenIncrementBy: 	2
+HiddenNeuronsStart: 3

@@ -1,0 +1,11 @@
+Dataset:			Sunspot
+TrainSize: 			399 
+TestSize: 			132 
+ValidationSize: 	132
+Input: 				5
+Output:				1
+MinimumError: 		0.04068
+Activation: 		Sigmoid
+HiddenNeuronsMax: 	3
+HiddenIncrementBy: 	2
+HiddenNeuronsStart: 3

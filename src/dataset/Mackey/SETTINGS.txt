@@ -1,0 +1,11 @@
+Dataset:			Mackey
+TrainSize: 			299 
+TestSize: 			99 
+ValidationSize: 	99
+Input: 				3
+Output:				1
+MinimumError: 		0.00847
+Activation: 		Sigmoid
+HiddenNeuronsMax: 	3
+HiddenIncrementBy: 	2
+HiddenNeuronsStart: 3

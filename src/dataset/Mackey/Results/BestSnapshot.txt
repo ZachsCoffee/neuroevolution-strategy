@@ -1,0 +1,16 @@
+Quit Run - Local Minimum = 0.00490314 Global Minimum = 0.00481394
+Quit Run - Local Minimum = 0.00486914 Global Minimum = 0.00469934
+Quit Run - Local Minimum = 0.00471455 Global Minimum = 0.0045962
+Quit Run - Local Minimum = 0.00473541 Global Minimum = 0.0045962
+Quit Run - Local Minimum = 0.00472348 Global Minimum = 0.0045962
+Quit Run - Local Minimum = 0.00470223 Global Minimum = 0.0045962
+Quit Run - Local Minimum = 0.00470111 Global Minimum = 0.0045962
+Quit Run - Local Minimum = 0.00456374 Global Minimum = 0.00454599
+Quit Run - Local Minimum = 0.00466629 Global Minimum = 0.00454599
+Quit Run - Local Minimum = 0.00456699 Global Minimum = 0.00453713
+Quit Run - Local Minimum = 0.00455543 Global Minimum = 0.00442494
+Quit Run - Local Minimum = 0.00475406 Global Minimum = 0.00442494
+Quit Run - Local Minimum = 0.0046502 Global Minimum = 0.00442494
+Quit Run - Local Minimum = 0.00460342 Global Minimum = 0.00442494
+Quit Run - Local Minimum = 0.00470286 Global Minimum = 0.00442494
+Best Index: 0 Train Fitness RMSE: 0.00436818 Test Fitness RMSE: 0.00454625
